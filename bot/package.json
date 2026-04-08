@@ -1,0 +1,13 @@
+{
+  "name": "liga-prime-rush-bot",
+  "version": "1.0.0",
+  "description": "LIGA PRIME RUSH Discord Bot",
+  "type": "module",
+  "main": "dist/index.mjs",
+  "scripts": {
+    "start": "node dist/index.mjs"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0"
+  }
+}
